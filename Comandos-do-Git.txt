@@ -49,6 +49,12 @@ $ git pull local master => trazer os dados de um repositório remoto para o meu 
 $ git remote add + nome repositório(origin) + link do repositório(https) criado no GitHub => linka repositório remoto com GitHub
 $ git push -u + nome repositório(origin) + master => Sempre que der um push nesse repositório master, ele será adcionado no repositório remoto adcionado(origin)
 $ git push + nome repositório(origin) + master => empurra a versão atualizada para o GitHub
+$ git push local main => envia as modificações para o servidor
+$ git pull local main => baixa as modificações
+$ git push origin main => envia as modificações para o repositório no GitHub
+$ git branch => ex:(master) ramificações(ramos) --> nos informa a branch em que estamos no momento atual
+$ git branch + nome a ser dado para a nova branch => Cria uma nova branch --> ex:(git branch titulo)
+$ git checkout + nome que foi dado a nova branch => ex:(git checkout titulo) --> Acessa a nova branch criada
 
 IMPORTANTE! Ler esse artigo no final curso. Como forma de revisão.
 

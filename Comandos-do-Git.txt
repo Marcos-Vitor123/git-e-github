@@ -55,6 +55,7 @@ $ git push origin main => envia as modificações para o repositório no GitHub
 $ git branch => ex:(master) ramificações(ramos) --> nos informa a branch em que estamos no momento atual
 $ git branch + nome a ser dado para a nova branch => Cria uma nova branch --> ex:(git branch titulo)
 $ git checkout + nome que foi dado a nova branch => ex:(git checkout titulo) --> Acessa a nova branch criada
+$ git checkout master => volta para a branch master
 
 IMPORTANTE! Ler esse artigo no final curso. Como forma de revisão.
 

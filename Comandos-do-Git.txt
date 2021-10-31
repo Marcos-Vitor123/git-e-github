@@ -56,6 +56,7 @@ $ git branch => ex:(master) ramificações(ramos) --> nos informa a branch em qu
 $ git branch + nome a ser dado para a nova branch => Cria uma nova branch --> ex:(git branch titulo)
 $ git checkout + nome que foi dado a nova branch => ex:(git checkout titulo) --> Acessa a nova branch criada
 $ git checkout master => volta para a branch master
+$ git checkout -b + nome da nova branch => ex:(git checkout -b lista) --> Atalho para criar nova branch e já acessar
 
 IMPORTANTE! Ler esse artigo no final curso. Como forma de revisão.
 

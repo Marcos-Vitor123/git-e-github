@@ -10,7 +10,7 @@
 <b>.gitignore</b> Arquivo criado na mesma pasta do projeto, em que ignora os arquivos ou pastas nos commits. Para isso, coloca-se o nome do<br> arquivo ou pasta + uma barra no final dentro do <b>.gitignore</b><br>
 <b>(fetch)</b> Busca<br>
 <b>(puch)<b> Envia<br> 
-<b>pull</b> Puchar<br>
+<b>(pull)</b> Puchar<br>
 
 `ls` Mostra todas as pastas e arquivos<br>
 `git --version` Diz a versão do Git<br>

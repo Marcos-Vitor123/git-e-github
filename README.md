@@ -2,7 +2,7 @@
 
 * Git Bash => Fornece comandos do Linux
 $ ```` => Mostra todas as pastas e arquivos
-$ git --version => diz a versão do Git
+$ `git --version` => diz a versão do Git
 $ git config --local user.name "Seu nome aqui" => Nome do autor que irá fazer as alterações no arquivos
 $ git config --local user.email "seu@email.aqui" => Email do autor que irá fazer as alterações no arquivos
 $ git init => Transforma a pasta atual em repositório

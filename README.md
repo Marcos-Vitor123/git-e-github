@@ -55,7 +55,7 @@
 `git push origin main` => Envia as modificações para o repositório no <strong>GitHub<strong><br>
 `git branch` => Ex:(master) ramificações(ramos). Nos informa a branch em que estamos no momento atual<br>
 `git branch + <nome a ser dado para a nova branch>` => Cria uma nova branch. Ex: `git branch titulo`<br>
-`git checkout + <nome que foi dado a nova branch>` => Ex: `git checkout titulo` Acessa a nova branch criada<br>
+`git checkout + <nome que foi dado a nova branch>` => Acessa a nova branch criada. Ex: `git checkout titulo`<br>
 `git checkout master` => Volta para a branch master<br>
 `git checkout -b + <nome da nova branch>` Ex: `git checkout -b lista` => Atalho para criar nova branch e já acessar<br>
 

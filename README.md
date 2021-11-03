@@ -58,6 +58,7 @@
 `git checkout + <nome que foi dado a nova branch>`. Ex: `git checkout titulo` Acessa a nova branch criada
 `git checkout master` Volta para a branch master
 `git checkout -b + <nome da nova branch>`. Ex: `git checkout -b lista` Atalho para criar nova branch e já acessar
+`git merge + nome da branch a ser unificada` => Unifica a (branch) com a que estiver acessada no momento. Ex: `git merge titulo` --> Unifica com a (master) que está acessada no momento.
 
 <h2>IMPORTANTE! Ler esse artigo no final curso. Como forma de revisão.</h2>
 

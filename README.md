@@ -61,8 +61,8 @@
 `git checkout -b + <nome da nova branch>` Ex: `git checkout -b lista` => Atalho para criar nova branch e já acessar<br>
 `git merge + nome da branch a ser unificada` => Unifica a (branch) com a que estiver acessada no momento. Ex: `git merge titulo` --> Unifica com a (master) que está acessada no momento.<br>
 `:x` + enter => Salva a mensagem atual do merge e faz o merging<br>
-`git merge --abort` [Desde git versão 1.7.4] => Desfazer o git merge
-`git reset --merge` [versões anteriores do git] Desfazer o git merge
+`git merge --abort` [Desde git versão 1.7.4] => Desfazer o git merge<br>
+`git reset --merge` [versões anteriores do git] Desfazer o git merge<br>
 
 <strong>IMPORTANTE! Ler esse artigo no final curso. Como forma de revisão.</strong><br>
 

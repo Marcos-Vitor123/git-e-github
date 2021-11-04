@@ -62,7 +62,10 @@
 `git merge + nome da branch a ser unificada` => Unifica a (branch) com a que estiver acessada no momento. Ex: `git merge titulo` --> Unifica com a (master) que está acessada no momento.<br>
 `:x` + enter => Salva a mensagem atual do merge e faz o merging<br>
 `git merge --abort` [Desde git versão 1.7.4] => Desfazer o git merge<br>
-`git reset --merge` [versões anteriores do git] Desfazer o git merge<br>
+`git reset --merge` [versões anteriores do git] => Desfazer o git merge<br>
+`git rebase titulo` => Traz commits de onde está acessado para trás da branch (master) e atualiza as 2 branches<br>
+`git log --graph` => Exibe linhas específicas de desenvolvimento<br>
+
 
 <strong>IMPORTANTE! Ler esse artigo no final curso. Como forma de revisão.</strong><br>
 

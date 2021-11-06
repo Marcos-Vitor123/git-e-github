@@ -72,8 +72,6 @@ Link do curso: <a href="https://cursos.alura.com.br/course/git-github-controle-d
 `git log --graph` => Exibe linhas específicas de desenvolvimento<br>
 
 
-=> <strong>IMPORTANTE! Ler esse artigo no final curso. Como forma de revisão.</strong><br>
+<strong>IMPORTANTE! Ler esse artigo no final curso. Como forma de revisão.</strong> <a href="https://training.github.com/downloads/pt_BR/github-git-cheat-sheet/"><strong>Documentação de Git init</strong></a> <strong>instrução de uso do Git no site do GitHub<strong><br>
 
-=> <a href="https://training.github.com/downloads/pt_BR/github-git-cheat-sheet/"><strong>Documentação de Git init</strong></a> <strong>instrução de uso do Git no site do GitHub<strong><br>
-
-=> <strong>Dica! Nunca devo comitar códigos imcompletos ou que não funciona.</strong><br>
+<strong>Dica! Nunca devo comitar códigos imcompletos ou que não funciona.</strong><br>

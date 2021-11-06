@@ -1,21 +1,22 @@
-# Curso iniciante em programação da Alura - Git e GitHub
+# Curso iniciante em programação da Alura - Git e GitHub #
+
 <a href="https://cursos.alura.com.br/course/git-github-controle-de-versao">Curso de Git e Github: Controle e compartilhe seu código</a><br>
 
-# Resumo e anotações para fins consultas futura
+# Anotações para fins consultas posterior #
 
-<h1>Sistemas de controle de versões</h1> 
+# Sistemas de controle de versões # 
 
-<strong>Git Bash</strong> => Fornece comandos do Linux<br>
-<strong>On branch master</strong> => Ramo ou branch<br>
-<strong>Changes to committed</strong> => Mudanças a serem commitadas<br>
-<strong>HEAD</strong> => Estado atual do nosso código, onde o Git os colocou.<br>
-<strong>Working tree</strong> => Local onde os arquivos estão sendo editados.<br>
-<strong>index</strong> => Local onde o git armazena o que será commitado ou local entre a working tree e o repositório Git em si.<br>
-<strong>hash do commit</strong> => Uma identificação única de cada commit<br>
-<strong>.gitignore</strong> => Arquivo criado na mesma pasta do projeto, em que ignora os arquivos ou pastas nos commits. Para isso, coloca-se o nome do arquivo ou pasta + uma barra no final dentro do <strong>.gitignore</strong><br>
-<strong>(fetch)</strong> => Busca<br>
-<strong>(puch)</strong> => Envia<br> 
-<strong>(pull)</strong> => Puchar<br>
+=> <strong>Git Bash</strong> => Fornece comandos do Linux<br>
+=> <strong>On branch master</strong> => Ramo ou branch<br>
+=> <strong>Changes to committed</strong> => Mudanças a serem commitadas<br>
+=> <strong>HEAD</strong> => Estado atual do nosso código, onde o Git os colocou.<br>
+=> <strong>Working tree</strong> => Local onde os arquivos estão sendo editados.<br>
+=> <strong>index</strong> => Local onde o git armazena o que será commitado ou local entre a working tree e o repositório Git em si.<br>
+=> <strong>hash do commit</strong> => Uma identificação única de cada commit<br>
+=> <strong>.gitignore</strong> => Arquivo criado na mesma pasta do projeto, em que ignora os arquivos ou pastas nos commits. Para isso, coloca-se o nome do arquivo ou pasta + uma barra no final dentro do <strong>.gitignore</strong><br>
+=> <strong>(fetch)</strong> => Busca<br>
+=> <strong>(puch)</strong> => Envia<br> 
+=> <strong>(pull)</strong> => Puchar<br>
 
 `ls` => Mostra todas as pastas e arquivos<br>
 `git --version` => Diz a versão do Git<br>
@@ -71,8 +72,8 @@
 `git log --graph` => Exibe linhas específicas de desenvolvimento<br>
 
 
-<strong>IMPORTANTE! Ler esse artigo no final curso. Como forma de revisão.</strong><br>
+=> <strong>IMPORTANTE! Ler esse artigo no final curso. Como forma de revisão.</strong><br>
 
-<a href="https://training.github.com/downloads/pt_BR/github-git-cheat-sheet/"><strong>Documentação de Git init</strong></a> <strong>instrução de uso do Git no site do GitHub<strong><br>
+=> <a href="https://training.github.com/downloads/pt_BR/github-git-cheat-sheet/"><strong>Documentação de Git init</strong></a> <strong>instrução de uso do Git no site do GitHub<strong><br>
 
-<strong>Dica! Nunca devo comitar códigos imcompletos ou que não funciona.</strong><br>
+=> <strong>Dica! Nunca devo comitar códigos imcompletos ou que não funciona.</strong><br>

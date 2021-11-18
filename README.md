@@ -68,7 +68,7 @@ Link do curso: <a href="https://cursos.alura.com.br/course/git-github-controle-d
 `:x` + enter => Salva a mensagem atual do merge e faz o merging<br>
 `git merge --abort` [Desde git versão 1.7.4] => Desfazer o git merge<br>
 `git reset --merge` [versões anteriores do git] => Desfazer o git merge<br>
-`git rebase titulo` => Traz commits de onde está acessado para trás da branch (master) e atualiza as 2 branches<br>
+`git rebase titulo` => Traz commits da branch(titulo) para trás da branch (master) e atualiza as 2 branches. OBS: É preciso estar na branch(master), para executar esses códigos ou na branch em que se deseja colocar os commits para trás dela.<br>
 `git log --graph` => Exibe linhas específicas de desenvolvimento<br>
 
 

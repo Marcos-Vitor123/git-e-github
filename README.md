@@ -3,9 +3,6 @@
 <img src="Git e GitHub.jpg">
 
 Link do curso: <a href="https://cursos.alura.com.br/course/git-github-controle-de-versao">Curso de Git e Github: Controle e compartilhe seu código</a><br>
-
-# Logo abaixo: Anotações para fins consultas posteriores 
-
 # Sistemas de controle de versões  
 
 <strong>Git Bash</strong> => Fornece comandos do Linux<br>

@@ -1,5 +1,5 @@
 
- # Solução para erro de conflito de arquivos usando o rebase
+# Solução para erro de conflito de arquivos usando o rebase
 
 Primeiro vamos entender a diferença entre o git merge e o git rebase, para isso vamos imaginar duas branches, main e feature.
 

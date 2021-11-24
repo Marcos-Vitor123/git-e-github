@@ -67,7 +67,7 @@ Link do curso: <a href="https://cursos.alura.com.br/course/git-github-controle-d
 `:x` + enter => Salva a mensagem atual do merge e faz o merging<br>
 `git merge --abort` [Desde git versão 1.7.4] => Desfazer o git merge<br>
 `git reset --merge` [versões anteriores do git] => Desfazer o git merge<br>
-`git rebase titulo` => Traz commits da branch(titulo) para trás da branch (master) e atualiza as 2 branches. OBS: É preciso estar na branch(master), para executar esses códigos ou na branch em que se deseja colocar os commits para trás dela. <b>Obs:</b> <a href="Solução para erro de conflito de arquivos usando o rebase.md">Solução para erro de conflito de arquivos usando o rebase</a><br>
+`git rebase titulo` => Traz commits da branch(titulo) para trás da branch (master) e atualiza as 2 branches. OBS: É preciso estar na branch(master), para executar esses códigos ou na branch em que se deseja colocar os commits para trás dela. <b>Obs:</b> <a href="https://github.com/Marcos-Vitor123/git-e-github/blob/440c93779b43cbf6afe5e7dec4ca01f149d2dcc2/Solu%C3%A7%C3%A3o%20para%20erro%20de%20conflito%20de%20arquivos%20usando%20o%20rebase.md">Solução para erro de conflito de arquivos usando o rebase</a><br>
 `git log --graph` => Exibe linhas específicas de desenvolvimento<br>
 
 

@@ -22,7 +22,7 @@ Link do curso: <a href="https://cursos.alura.com.br/course/git-github-controle-d
 `git config --local user.name "Seu nome aqui"` => Nome do autor que irá fazer as alterações no arquivos<br>
 `git config --local user.email "seu@email.aqui"` => Email do autor que irá fazer as alterações no arquivos<br>
 `git init` => Transforma a pasta atual em repositório<br>
-OBS: Caso o caminho da sua pasta possua espaços, é preciso colocá-lo entre aspas. Exemplo: `cd 'Documents/Curso Git e GitHub'`
+OBS: Caso o caminho da sua pasta possua espaços, é preciso colocá-lo entre aspas. Exemplo: `cd 'Documents/Curso Git e GitHub'`<br>
 `git config --list --local` => Confere<br> 
 `git status` => Mostra o estado do repositório ou quais arquivos foram alterados<br>
 `git add + <Nome do arquivo>` => Adciona 1 arquivo específico no Git ou inclui arquivos no commits, que passa a monitorar.<br>

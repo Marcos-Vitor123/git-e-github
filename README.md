@@ -19,8 +19,8 @@ Link do curso: <a href="https://cursos.alura.com.br/course/git-github-controle-d
 
 `ls` => Mostra todas as pastas e arquivos<br>
 `git --version` => Diz a versão do Git<br>
-`git config --local user.name "Seu nome aqui"` => Nome do autor que irá fazer as alterações no arquivos<br>
-`git config --local user.email "seu@email.aqui"` => Email do autor que irá fazer as alterações no arquivos<br>
+`git config --local user.name "Seu nome aqui"` => Nome do autor que irá fazer as alterações no arquivos nesse projeto<br>
+`git config --local user.email "seu@email.aqui"` => Email do autor que irá fazer as alterações no arquivos nesse projeto<br>
 `git init` => Transforma a pasta atual em repositório<br>
 OBS: Caso o caminho da sua pasta possua espaços, é preciso colocá-lo entre aspas. Exemplo: `cd 'Documents/Curso Git e GitHub'`<br>
 `git config --list --local` => Confere<br> 
@@ -31,7 +31,7 @@ OBS: Caso o caminho da sua pasta possua espaços, é preciso colocá-lo entre as
 `git rm` => Remove o arquivo recém adcionado deixando de ser monitorado.<br>
 `git log` => Vê o histórico de alterações.<br>
 `git config --local user.name "nome alterado"` => Configuração para cada projeto<br>
-`git config --global` => Para máquina toda<br>
+`git config --global` => Para máquina toda ou para todos os projetos<br>
 `git config user.email` => Visualisa as configurações de email<br>
 `git config user.name` => Visualisa as configurações do nome<br>
 `git log --oneline` => Visualisa as alterações resumida em uma única linha<br>

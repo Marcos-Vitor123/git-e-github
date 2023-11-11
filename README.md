@@ -42,7 +42,7 @@ OBS: Caso o caminho da sua pasta possua espaços, é preciso colocá-lo entre as
 `cd ..` Volta uma pasta acima da pasta do projeto<br>
 `mkdir + <Nome da pasta>` Cria uma pasta<br>
 `cd + <Nome da pasta/>` Acessa a pasta<br>
-`git init --bare` Para transformar o repositório em servidor onde fica somente as alterações dos arquivos e não uma cópia de cada. `--bare` => Parâmetro<br>
+`git init --bare` Para transformar o repositório em servidor onde fica somente as alterações dos arquivos e não uma cópia de cada. `--bare` Parâmetro<br>
 `git remote` Lista todos os repositórios remotos<br>
 `git remote add + <Nome do repositório remoto> + <Caminho da pasta com os arquivos>` (ex: local). Pode ser uma url, um endereço na rede ou uma pasta no computador e etc...<br>
 `git remote -v` Mostra o endereço do local<br>

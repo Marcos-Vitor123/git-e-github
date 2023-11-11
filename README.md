@@ -14,7 +14,7 @@ Link do curso: <a href="https://cursos.alura.com.br/course/git-github-controle-d
 <strong>hash do commit</strong> Uma identificação única de cada commit<br>
 <strong>.gitignore</strong> Arquivo criado na mesma pasta do projeto, em que ignora os arquivos ou pastas nos commits. Para isso, coloca-se o nome do arquivo ou pasta + uma barra no final dentro do <strong>.gitignore</strong><br>
 <strong>(fetch)</strong> Busca<br>
-<strong>(puch)</strong> Envia<br> 
+<strong>(puch)</strong> Enviar<br> 
 <strong>(pull)</strong> Puchar<br>
 
 `ls` Mostra todas as pastas e arquivos<br>
@@ -28,7 +28,7 @@ OBS: Caso o caminho da sua pasta possua espaços, é preciso colocá-lo entre as
 `git add + <Nome do arquivo>` Adciona 1 arquivo específico no Git ou inclui arquivos no commits, que passa a monitorar.<br>
 `git add .` ou `git add -A` Adciona todos os arquivos no Git<br>
 `git commit -m "nome da alteração + detalhes se quiser"` (commit) Salva a alteração recente e indica mudanças como um <strong>"check point"</strong><br>
-`git rm` => Remove o arquivo recém adcionado deixando de ser monitorado.<br>
+`git rm` Remove o arquivo recém adcionado deixando de ser monitorado.<br>
 `git log` Vê o histórico de alterações.<br>
 `git config --local user.name "nome alterado"` Configuração para cada projeto<br>
 `git config --global` Para máquina toda ou para todos os projetos<br>
@@ -64,7 +64,7 @@ OBS: Caso o caminho da sua pasta possua espaços, é preciso colocá-lo entre as
 `git checkout + <nome que foi dado a nova branch>` Acessa a nova branch criada. Ex: `git checkout titulo`<br>
 `git checkout master` Volta para a branch master<br>
 `git checkout -b + <nome da nova branch>` Ex: `git checkout -b lista` Atalho para criar nova branch e já acessar<br>
-`git merge + nome da branch a ser unificada` Unifica a (branch) com a que estiver acessada no momento. Ex: `git merge titulo` --> Unifica com a (master) que está acessada no momento.<br>
+`git merge + nome da branch a ser unificada` Unifica a (branch) com a que estiver acessada no momento. Ex: `git merge titulo` Unifica com a (master) que está acessada no momento.<br>
 `:x` + enter Salva a mensagem atual do merge e faz o merging<br>
 `git merge --abort` [Desde git versão 1.7.4] Desfazer o git merge<br>
 `git reset --merge` [versões anteriores do git] Desfazer o git merge<br>
